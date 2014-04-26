@@ -1016,7 +1016,10 @@ footer .social ul li:last-child {
 @media only screen and (max-width: 500px) {
 .landing-image section {
     padding: 70px 0;
-  }
+}
+h1 {
+    font-size: 32px;
+}
   footer .social {
     display: none;
   }
