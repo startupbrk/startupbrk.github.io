@@ -593,6 +593,7 @@ header.site-header nav ul li a:hover {
 }
 .landing-image h1, h3 {
   color:#fff;
+  opacity:0.8;
   margin:0;
   font-weight:600;
 }
@@ -620,7 +621,7 @@ header.site-header nav ul li a:hover {
           color-stop(0, rgba(0,0,0,0.15)),
           color-stop(1, rgba(0,0,0,0))
         );
-        padding: 140px 0;
+        padding: 110px 0;
         z-index:10;
 }
 /*
