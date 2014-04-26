@@ -577,7 +577,7 @@ header.site-header nav ul li a:hover {
   @extend .article;
   vertical-align: middle;
   min-height: 360px;
-  height: 80vh; 
+  height: 75%; 
   width: 100%;
  /* max-height: 1000px; */
   background-position: center center;
@@ -1021,7 +1021,7 @@ footer .social ul li:last-child {
    ========================================================================== */
 @media only screen and (max-width: 500px) {
 .landing-image section {
-    padding: 40px 0;
+    padding: 70px 0;
   }
   footer .social {
     display: none;
