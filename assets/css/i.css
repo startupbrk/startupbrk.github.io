@@ -577,7 +577,7 @@ header.site-header nav ul li a:hover {
   @extend .article;
   vertical-align: middle;
   min-height: 360px;
-  height: 75%; 
+  height: 70%; 
   width: 100%;
  /* max-height: 1000px; */
   background-position: center center;
@@ -741,7 +741,6 @@ header.site-header nav ul li a:hover {
 }
 .archive-wrap .post-list li h1 {
   font-size: 32px;
-  font-style: italic;
 }
 .archive-wrap .post-list .summary {
   font-size: 18px;
@@ -777,9 +776,6 @@ header.site-header nav ul li a:hover {
   left: 6px;
   color: #999999;
   margin-bottom: 16.5px;
-}
-.post h1 {
-  font-style: italic;
 }
 .post h1, .post h2, .post h3, .post h4, .post h5 {
   padding-top: 16.5px;
@@ -922,7 +918,7 @@ footer small a {
 footer .list-title {
   margin-bottom: 16.5px;
   border-bottom: 2px solid #8ab9d1;
-  font-style: italic;
+  font-style: ;
   font-size: 24px;
 }
 footer .prev-posts {
@@ -958,7 +954,6 @@ footer .prev-posts li .recent-title {
   float: left;
   width: 64.16667%;
   margin: 0 1.25%;
-  font-style: italic;
 }
 footer .prev-posts li .recent-title a:hover {
   color: #f9f9f9;
@@ -984,7 +979,6 @@ footer .social {
   width: 14.16667%;
   margin: 0 1.25%;
   right: 5vw;
-  font-style: italic;
 }
 footer .social a:hover {
   color: #f9f9f9;
