@@ -1,0 +1,20 @@
+{% include head-dark.html %}
+
+
+{% if page.image.feature %}
+  <div class="landing-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+    <section>
+            <h1>{{ page.text.title }}</h1>
+            {% if page.text.subtitle %}<h3>{{ page.text.subtitle }}</h3>{% endif %}
+    </section>
+  </div>
+{% else %}
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url({{ site.url }}/images/typewriter.jpg)"></div>
+{% endif %}
+
+        {{ content }}
+
+</div>
+
+{% include footer.html %}
