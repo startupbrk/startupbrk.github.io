@@ -877,7 +877,6 @@ header.site-header nav ul li a:hover {
 
 footer {
   width: 100%;
- /* background: #191919; */
   background: #242628; /* Old browsers */
   background: -moz-linear-gradient(-45deg, #242628 0%, #000000 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#242628), color-stop(100%,#000000)); /* Chrome,Safari4+ */
@@ -886,6 +885,7 @@ footer {
   background: -ms-linear-gradient(-45deg, #242628 0%,#000000 100%); /* IE10+ */
   background: linear-gradient(135deg, #242628 0%,#000000 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242628', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  height: 300px;
   font-size: 22px;
   color: #f9f9f9;
   position: relative;
@@ -934,7 +934,7 @@ footer .prev-posts {
   display: inline;
   float: left;
   font-size: 18px;
-  width: 60.0%;
+  width: 70.0%;
   margin: 0 1.5%;
   min-height: 250px;
   padding-left: 5vw;
