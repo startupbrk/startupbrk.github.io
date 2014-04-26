@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Post and Feature Image
+layout: post-no-feature
+title: "Welcome to Starupbrk!"
 description: "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
 category: articles
 tags: [intro, beginner, jekyll, tutorial]

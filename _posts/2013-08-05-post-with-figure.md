@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Post with Figure"
+layout: post-no-feature
+title: "Hyderabad chapter launches"
 description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]

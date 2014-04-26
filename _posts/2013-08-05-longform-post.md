@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "A Longform Post to Cogitate"
+title: "So, what did you do last vacation??"
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
 category: articles
 tags: [sample post, readability, test]
