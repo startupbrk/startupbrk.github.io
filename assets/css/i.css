@@ -592,8 +592,8 @@ header.site-header nav ul li a:hover {
   z-index: 1;
 }
 .landing-image h1, h3, h4 {
-  color:#fff;
-  opacity:0.8;
+  color:#242628;
+  opacity:0.6;
   margin:0;
   font-weight:600;
 }
@@ -601,6 +601,7 @@ header.site-header nav ul li a:hover {
         line-height:2.4em;
 }
 .landing-image h4 {
+    color:#fff;
     bottom: 10px;
     text-align: center;
     width: 100%;
