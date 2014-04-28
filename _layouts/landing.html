@@ -1,10 +1,21 @@
 {% include head-dark.html %}
 
+<section class="article">
   <div class="landing-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
     <section>
             <h1>{{ page.text.title }}</h1>
-            {% if page.text.subtitle %}<h3>{{ page.text.subtitle }}</h3>{% endif %}
-   {% if page.text.news %}<h4>{{ page.text.news }}</h4>{% endif %}
+            {% if page.text.subtitle %}<h2>{{ page.text.subtitle }}</h2>{% endif %}
     </section>
 </div>
+  <div class="landing-news">
+   {% if page.text.news %}<h3><a href="{% if page.text.slink %}{{ page.text.slink }}{% endif %}">{{ page.text.news }}</a></h3>{% endif %}
+  </div>
+
+<article class="wrap post">
+  <header class="post-header"></header>
+  {{ content }}
+
+</article>
+</section>
+
 {% include footer.html %}
