@@ -30,4 +30,4 @@ StartupBrk is currently active in [Jaipur](http://www.eventbrite.com/e/web-mobil
   * Last date to sign up for the summerbrk contest is May 15th. Contest ends on Aug 15th. Winners declared on Aug 26th.
   * Last date to sign up for the winterbrk contest is Nov 15th. Contest ends on Jan 15th. Winners declared on Jan 26th.
 
-### Inspired by Startup Weekend, conceived by Gaurav Nolkha and [SwiftDay](https://www.swiftday.com).
+### Inspired by [Startup Weekend](http://startupweekend.org/), conceived by Gaurav Nolkha and [SwiftDay](https://www.swiftday.com).
