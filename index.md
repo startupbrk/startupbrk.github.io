@@ -24,9 +24,9 @@ StartupBrk is currently active in [Jaipur](http://www.eventbrite.com/e/web-mobil
 
 2. Why: Create value !! - Value for your brain, name, resume and pockets. Value for your team, family, network, community, college, city, state, country and world. 
 
-3. When: Every year:
-  * Last date to sign up for the summerbrk contest is May 15th. Contest ends on Aug 15th. Winners declared on Aug 26th.
-  * Last date to sign up for the winterbrk contest is Nov 15th. Contest ends on Jan 15th. Winners declared on Jan 26th.
+3. When: Summer Startupbrk: Last date to sign up for the summerbrk contest is **May 15th**. Contest ends on **Aug 15th**. Winners declared on **Aug 26th**. 
+
+4. When: Winter Startupbrk: Last date to sign up for the winterbrk contest is **Nov 15th**. Contest ends on **Jan 15th**. Winners declared on **Jan 26th**.
 
 4. How: Find a team, discuss ideas, find mentors, network with people and learn to create something beautiful (tangible and real!!) over your summer vacation and winter vacation. And compete for awesome prizes. [Forum](https://groups.google.com/d/forum/startupbrk)
 
