@@ -20,7 +20,7 @@ Need more reasons to get excited? The best projects get cool cash prizes, and ma
 StartupBrk is currently active in [Jaipur](http://www.eventbrite.com/e/web-mobile-application-development-contest-startupbrk-jaipur-tickets-11298503127?aff=eorg) and [Hyderabad](http://www.eventbrite.com/e/web-mobile-application-development-contest-startupbrk-hyderabad-tickets-11328218005?aff=eorg), with summer and winter contest seasons.
 
 ## Quick Facts:
-1. Who: Any student can participate in any their nearest city's Startupbrk.
+1. Who: Any student can participate in any their nearest city's Startupbrk. Example: [Jaipur](http://www.eventbrite.com/e/web-mobile-application-development-contest-startupbrk-jaipur-tickets-11298503127?aff=eorg) and [Hyderabad](http://www.eventbrite.com/e/web-mobile-application-development-contest-startupbrk-hyderabad-tickets-11328218005?aff=eorg)
 
 2. Why: Create value !! - Value for your brain, name, resume and pockets. Value for your team, family, network, community, college, city, state, country and world. 
 
@@ -28,6 +28,7 @@ StartupBrk is currently active in [Jaipur](http://www.eventbrite.com/e/web-mobil
   * Last date to sign up for the summerbrk contest is May 15th. Contest ends on Aug 15th. Winners declared on Aug 26th.
   * Last date to sign up for the winterbrk contest is Nov 15th. Contest ends on Jan 15th. Winners declared on Jan 26th.
 
-4. How: Find a team, discuss ideas, find mentors, network with people and learn to create something beautiful (tangible and real!!) over your summer vacation and winter vacation. And compete for awesome prizes.
+4. How: Find a team, discuss ideas, find mentors, network with people and learn to create something beautiful (tangible and real!!) over your summer vacation and winter vacation. And compete for awesome prizes. [Forum](https://groups.google.com/d/forum/startupbrk)
+
 
 ### Inspired by [Startup Weekend](http://startupweekend.org/), conceived by Gaurav Nolkha and [SwiftDay](https://www.swiftday.com).
