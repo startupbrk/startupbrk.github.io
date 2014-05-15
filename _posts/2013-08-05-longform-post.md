@@ -6,5 +6,7 @@ category: articles
 tags: [sample post, readability, test]
 ---
 
-> Nothing can be more satisfying than that.
+Join Startupbrk to make your idea dream come true.
+
+> Nothing can be more satisfying than living your idea.
 
