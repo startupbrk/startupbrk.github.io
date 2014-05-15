@@ -14,7 +14,7 @@ text:
 # Start something BIG
 Use your vacation to create software you are passionate about. For the duration of the contest, StartupBrk gives you access to experienced, hands-on Mentors who can help you realize your vision with the tools and best practices of the real world. Promising projects might even be able to take to the next level with financial or technical backing from StartupBrk.
 
-## [For Students](#for-students) [For Mentors](#for-mentors) [For Sponsors](#for-sponsors)
+### [For Students](#for-students) | [For Mentors](#for-mentors) | [For Sponsors](#for-sponsors)
 
 ## Did we tell you about the prizes?
 Need more reasons to get excited? The best projects get cool cash prizes, and maybe even internship opportunities in real-world startups!
