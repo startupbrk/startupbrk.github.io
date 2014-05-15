@@ -19,7 +19,13 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-
+- title: Blog
+  url: /articles
+- title: Jaipur
+  url: /articles/jp-launch/
+- title: Hyderabad
+  url: /articles/hyd-launch/
+  #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
