@@ -21,6 +21,9 @@ tools:
 links:
 - title: Blog
   url: /articles
+- title: Q&A
+  url: https://groups.google.com/forum/#!forum/startupbrk
+  external: true
 - title: Jaipur
   url: /articles/jp-launch/
 - title: Hyderabad
