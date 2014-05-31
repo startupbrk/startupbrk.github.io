@@ -577,7 +577,7 @@ header.site-header nav ul li a:hover {
   @extend .article;
   vertical-align: middle;
   /* min-height: 360px; */
-  height: 75vh; 
+  height: 65vh; 
   width: 100%;
  /* max-height: 1000px; */
   background-position: center center;
