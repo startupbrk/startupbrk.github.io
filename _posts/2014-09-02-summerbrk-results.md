@@ -22,21 +22,27 @@ Before we get to the results, we would like to thank our sponsors and judges, Di
 
 Without much further ado, winners of Summerbrk 2014 are:
 
-## 1. Pranshu Goyal, Rs. 10000 cash
+### 1. Pranshu Goyal, Rs. 10000 cash
 For his work on [Sophomore.in](http://www.sophomore.in). Judges rewarded his effort for taking it live.
 
-## 2. Vatsal Bucha, Rs. 2500 cash
+### 2. Vatsal Bucha, Rs. 2500 cash
 Just like you, we love games and could not avoid falling for his simple duck hunt game.
 
-## 3. Ankush Mittal, Rs. 2500 cash
+### 3. Ankush Mittal, Rs. 2500 cash
 For his use of Parse cloud to deliver a connected experience that enables sharing videos and photos among friends.
+
+## Surprise Keep-it-up Awards!!
+
+### Pratishtha Choudhary, Rs. 1500 cash
+For her work on the feedback system involving your friends and trusted sources.
+
+### Vamshi and Ramesh, Rs. 1500 cash
+For their fun idea and implementation of Mr. Bunker.
 
 ## Important Announcement
 Divye, will be meeting students/participants from **Jaipur** next weekend, where he will happily share his feedback and will answer questions related to technology, running a IT company and just about anything :). 
 
-<figure>
-	<img src="">
-	<figcaption>Congratulations!</figcaption>
-</figure>
+Congratulations! And don't forget to boast about it and share with your friends.
 
-Don't forget to share.
+Cheers,
+Startupbrk team.
