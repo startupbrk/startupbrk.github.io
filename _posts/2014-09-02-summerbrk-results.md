@@ -22,13 +22,13 @@ Before we get to the results, we would like to thank our sponsors and judges, Di
 
 Without much further ado, winners of Summerbrk 2014 are:
 
-## 1. Pranshu Goyal, First prize Rs. 10000 Cash.
+## 1. Pranshu Goyal, Rs. 10000 cash
 For his work on [Sophomore.in](http://www.sophomore.in). Judges rewarded his effort for taking it live.
 
-## 2. Vatsal Bucha, Second prize Rs. 2500 Cash.
+## 2. Vatsal Bucha, Rs. 2500 cash
 Just like you, we love games and could not avoid falling for his simple duck hunt game.
 
-## 3. Ankush Mittal, Third prize Rs. 2500 Cash.
+## 3. Ankush Mittal, Rs. 2500 cash
 For his use of Parse cloud to deliver a connected experience that enables sharing videos and photos among friends.
 
 ## Important Announcement
