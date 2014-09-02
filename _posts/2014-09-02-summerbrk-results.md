@@ -18,7 +18,7 @@ We are pleased to announce the results for Summerbrk 2014. First a few facts:
 
 There were about twice as many participants as we had in Winterbrk 2013. The competition was tougher. The ideas submitted ranged from solving serious educational issues like bunking a class :), fun games, social media, sharing with friends, reviews, internet of things, classified listings and so on. Judges had tough time coming to consensus and it was a close call.
 
-Before we get to the results, we would like to thank our sponsors and judges, Divye Tela (Auriga IT, India), Venkat Yalla (Intel Corp., USA) and Gaurav Nolkha (Swiftday LLC., USA) for their support and time. We also want to thank Ashutosh Mundra, Harish (Deloitte, India) and Mukta Sharma for their support and encouragement.
+Before we get to the results, we would like to thank our sponsors and judges, Divye Tela (Auriga IT, India), Venkat Yalla (Intel Corp., USA) and Gaurav Nolkha (Swiftday LLC., USA) for their support and time. We also want to thank Ashutosh Mundra (Oracle, India), Harish (Deloitte, India) and Mukta Sharma (Deloitte, USA) for their support and encouragement.
 
 Without much further ado, winners of Summerbrk 2014 are:
 
