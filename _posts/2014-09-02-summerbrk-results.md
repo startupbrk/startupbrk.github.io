@@ -34,8 +34,9 @@ For his use of Parse cloud to deliver a connected experience that enables sharin
 ## Important Announcement
 Divye, will be meeting students/participants from **Jaipur** next weekend, where he will happily share his feedback and will answer questions related to technology, running a IT company and just about anything :). 
 
-
 <figure>
 	<img src="">
 	<figcaption>Congratulations!</figcaption>
 </figure>
+
+Don't forget to share.
