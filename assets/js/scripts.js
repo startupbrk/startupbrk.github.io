@@ -29,6 +29,7 @@ $(document).ready(function() {
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-50870149-1', 'startupbrk.com');
+    ga('require', 'displayfeatures');
     ga('send', 'pageview');
   
 });
