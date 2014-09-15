@@ -23,7 +23,7 @@ Before we get to the results, we would like to thank our sponsors and judges, Di
 Without much further ado, winners of Summerbrk 2014 are:
 
 ### 1. Pranshu Goyal, Rs. 10000 cash
-For his work on [Sophomore.in](http://www.sophomore.in). Judges rewarded his effort for taking it live.
+For his work on [Sophomore.in](http://www.sophomores.in). Judges rewarded his effort for taking it live.
 
 ### 2. Vatsal Bucha, Rs. 2500 cash
 Just like you, we love games and could not avoid falling for his simple duck hunt game.
