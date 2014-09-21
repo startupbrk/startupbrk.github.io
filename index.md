@@ -7,8 +7,8 @@ image:
 text:
   title:     "StartupBrk"
   subtitle:  "Get ready for the REAL world"
-  news:      "Jaipur and Hyderabad signups open, register here!"
-  slink:     "http://www.eventbrite.com/o/swiftday-llc-5606912559?s=24250965"
+  news:      "Results for Summerbrk 2014 announced!"
+  slink:     "http://startupbrk.com/articles/summerbrk-results/"
   no_header: true
 ---
 # Start something BIG
