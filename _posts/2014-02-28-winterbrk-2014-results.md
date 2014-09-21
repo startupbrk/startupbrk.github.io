@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Winterbrk 2014 Results"
-description: "Announcing winners of Summerbrk 2014!"
+description: "Announcing winners of Winterbrk 2014!"
 category: articles
 tags: [winterbrk, images, results]
 image:
