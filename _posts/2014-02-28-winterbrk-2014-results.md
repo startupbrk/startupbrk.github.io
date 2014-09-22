@@ -5,7 +5,7 @@ description: "Announcing winners of Winterbrk 2014!"
 category: articles
 tags: [winterbrk, images, results]
 image:
-  feature: winterbrk-2014-presentation-winners.jpeg
+  feature: winterbrk-2014-presentation-winners.jpg
 ---
 
 # Results
