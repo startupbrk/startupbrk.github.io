@@ -27,7 +27,7 @@ Without much further ado, winners of Winterbrk 2014 are:
 ### 1 Simral Chaudhary and Neha Sharma, Rs. 10000 cash
 For their work on Artesania. Judges rewarded thier wholesome effort.
 
-### 2. Arpita Mathur, Astha Gupta, Deenbandhu Agarwal and Pooja Bandal, Rs. 2500 cash
+### 2. Arpita Mathur, Astha Gupta, Deenbandhu Agarwal and Pooja Bansal, Rs. 2500 cash
 Loved the use of modern web application development techniques used in the creation of Flockers, a simple interest based discovery platform.
 
 ### 3. Saatvik Shah and Sanjay Thakur, Rs. 2500 cash
