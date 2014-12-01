@@ -7,7 +7,7 @@ image:
 text:
   title:     "StartupBrk"
   subtitle:  "Get ready for the REAL world"
-  news:      "Results for Summerbrk 2014 announced!"
+  news:      "Ready for Winterbrk 2015? Register now!!"
   slink:     "http://startupbrk.com/articles/winterbrk-2015/"
   no_header: true
 ---
