@@ -7,8 +7,8 @@ image:
 text:
   title:     "StartupBrk"
   subtitle:  "Get ready for the REAL world"
-  news:      "Ready for Winterbrk 2015? Register now!!"
-  slink:     "http://startupbrk.com/articles/winterbrk-2015/"
+  news:      "Ready for Summerbrk 2015? Register now!!"
+  slink:     "http://startupbrk.com/articles/summerbrk-2015/"
   no_header: true
 ---
 # Start something BIG
