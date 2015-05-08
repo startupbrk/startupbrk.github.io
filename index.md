@@ -12,7 +12,7 @@ text:
   no_header: true
 ---
 # Start something BIG
-Use your vacation to create software you are passionate about. For the duration of the contest, StartupBrk gives you access to experienced, hands-on Mentors who can help you realize your vision with the tools and best practices of the real world. Promising projects might even be able to take to the next level with financial or technical backing from StartupBrk.
+Use your vacation to create software you are passionate about. For the duration of the contest, StartupBrk gives you access to experienced, hands-on Mentors who can help you realize your vision with the tools and best practices of the real world. Promising projects might even be able to take to the next level with financial or technical backing from StartupBrk. Signup for our [mailing list](http://swiftday.us7.list-manage.com/subscribe?u=063ec9bd7e6a813bac68039a3&id=a4b9568ab4) to stay informed.
 
 ### [For Students](#for-students) | [For Mentors](#for-mentors) | [For Sponsors](#for-sponsors)
 
