@@ -25,26 +25,25 @@
 
         {{ content }}
 
-      <div id="fb-root"></div>
+        <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-      <div class="fb-like" data-href="https://www.facebook.com/startupbrk" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+        <div id="fb-root"></div>
 
-      <div class="fb-send" data-href="https://developers.facebook.com/docs/plugins/"></div>
+        <div class="fb-like" data-href="https://www.facebook.com/startupbrk" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
 
-      <div class="fb-page" data-href="https://www.facebook.com/startupbrk" data-width=100% data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/startupbrk"><a href="https://www.facebook.com/startupbrk">Startupbrk</a></blockquote></div></div>
+        <div class="fb-send" data-href="{{ site.url }}{{ page.url }}"></div>
 
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
+        <div class="fb-page" data-href="https://www.facebook.com/startupbrk" data-width=100% data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/startupbrk"><a href="https://www.facebook.com/startupbrk">Startupbrk</a></blockquote></div></div>
 
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1429381594035349";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
 
-      <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
- ;CN=Gaurav Nolkha;X-NUM-GUESTS=0:mailto:gnolkha@gmail.com";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
       </article>
     </section>
 </div>
