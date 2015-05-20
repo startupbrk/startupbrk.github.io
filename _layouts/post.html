@@ -22,6 +22,18 @@
 
         {{ content }}
 
+      <div id="fb-root"></div>
+
+      <div class="fb-like" data-href="https://www.facebook.com/startupbrk" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
+
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
