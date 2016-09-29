@@ -10,7 +10,6 @@ If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
 
 ---
 
-
 ![Balzac for Jekyll](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
 ![Balzac for Jekyll](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
 
